@@ -1,0 +1,10 @@
+E:\own\C#课程\The2class\The2class\bin\Debug\The2class.exe.config
+E:\own\C#课程\The2class\The2class\bin\Debug\The2class.exe
+E:\own\C#课程\The2class\The2class\bin\Debug\The2class.pdb
+E:\own\C#课程\The2class\The2class\obj\Debug\The2class.csprojAssemblyReference.cache
+E:\own\C#课程\The2class\The2class\obj\Debug\The2class.Form1.resources
+E:\own\C#课程\The2class\The2class\obj\Debug\The2class.Properties.Resources.resources
+E:\own\C#课程\The2class\The2class\obj\Debug\The2class.csproj.GenerateResource.cache
+E:\own\C#课程\The2class\The2class\obj\Debug\The2class.csproj.CoreCompileInputs.cache
+E:\own\C#课程\The2class\The2class\obj\Debug\The2class.exe
+E:\own\C#课程\The2class\The2class\obj\Debug\The2class.pdb
